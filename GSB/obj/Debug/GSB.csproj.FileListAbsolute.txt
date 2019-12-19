@@ -1,0 +1,16 @@
+C:\Users\Clément Dudit\Desktop\BTS SIO\BTS SIO 2\PPE\Mission1\c#GSB\GSB\GSB\bin\Debug\GSB.exe.config
+C:\Users\Clément Dudit\Desktop\BTS SIO\BTS SIO 2\PPE\Mission1\c#GSB\GSB\GSB\bin\Debug\GSB.exe
+C:\Users\Clément Dudit\Desktop\BTS SIO\BTS SIO 2\PPE\Mission1\c#GSB\GSB\GSB\bin\Debug\GSB.pdb
+C:\Users\Clément Dudit\Desktop\BTS SIO\BTS SIO 2\PPE\Mission1\c#GSB\GSB\GSB\bin\Debug\Devart.Data.dll
+C:\Users\Clément Dudit\Desktop\BTS SIO\BTS SIO 2\PPE\Mission1\c#GSB\GSB\GSB\bin\Debug\Devart.Data.MySql.dll
+C:\Users\Clément Dudit\Desktop\BTS SIO\BTS SIO 2\PPE\Mission1\c#GSB\GSB\GSB\bin\Debug\Devart.Data.xml
+C:\Users\Clément Dudit\Desktop\BTS SIO\BTS SIO 2\PPE\Mission1\c#GSB\GSB\GSB\bin\Debug\Devart.Data.MySql.xml
+C:\Users\Clément Dudit\Desktop\BTS SIO\BTS SIO 2\PPE\Mission1\c#GSB\GSB\GSB\obj\Debug\GSB.csprojAssemblyReference.cache
+C:\Users\Clément Dudit\Desktop\BTS SIO\BTS SIO 2\PPE\Mission1\c#GSB\GSB\GSB\obj\Debug\GSB.Form1.resources
+C:\Users\Clément Dudit\Desktop\BTS SIO\BTS SIO 2\PPE\Mission1\c#GSB\GSB\GSB\obj\Debug\GSB.Properties.Resources.resources
+C:\Users\Clément Dudit\Desktop\BTS SIO\BTS SIO 2\PPE\Mission1\c#GSB\GSB\GSB\obj\Debug\GSB.csproj.GenerateResource.cache
+C:\Users\Clément Dudit\Desktop\BTS SIO\BTS SIO 2\PPE\Mission1\c#GSB\GSB\GSB\obj\Debug\GSB.csproj.CopyComplete
+C:\Users\Clément Dudit\Desktop\BTS SIO\BTS SIO 2\PPE\Mission1\c#GSB\GSB\GSB\obj\Debug\GSB.exe
+C:\Users\Clément Dudit\Desktop\BTS SIO\BTS SIO 2\PPE\Mission1\c#GSB\GSB\GSB\obj\Debug\GSB.pdb
+C:\Users\Clément Dudit\Desktop\BTS SIO\BTS SIO 2\PPE\Mission1\c#GSB\GSB\GSB\obj\Debug\GSB.ListUser.resources
+C:\Users\Clément Dudit\Desktop\BTS SIO\BTS SIO 2\PPE\Mission1\c#GSB\GSB\GSB\obj\Debug\GSB.UpdateForfait.resources
